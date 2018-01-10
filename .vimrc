@@ -117,6 +117,9 @@ endif
 
 "colorscheme
 colorscheme zellner 
-
+ 
 "menu for manouvering around fs
 set wildmenu
+
+"map jj to esc
+imap jj <Esc>
